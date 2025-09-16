@@ -1,1 +1,1 @@
-# GameJavaQuest
+# GameJavaQuestJewells
